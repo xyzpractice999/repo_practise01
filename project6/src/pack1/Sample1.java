@@ -22,7 +22,7 @@ public class Sample1 {
 	{
 		System.out.println("m3 method executed");
 	}
-	public void m5()
+	public void m15()
 	{
 		System.out.println("m3 method executed");
 	}
