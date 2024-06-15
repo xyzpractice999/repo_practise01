@@ -6,6 +6,9 @@ public class Sample5 {
 		int a=8;
 		int b=0;
 		int c=a/b;
+		int c=a/b;
+		int c=a/b;
+		int c=a/b;
 
 	}
 
