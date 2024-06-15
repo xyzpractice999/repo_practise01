@@ -18,11 +18,15 @@ public class Sample1 {
 		System.out.println("m3 method executed");
 	}
 
-	public void m4()
+	public void m14()
 	{
 		System.out.println("m3 method executed");
 	}
 	public void m5()
+	{
+		System.out.println("m3 method executed");
+	}
+	public void m6()
 	{
 		System.out.println("m3 method executed");
 	}
